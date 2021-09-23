@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @froshvenhall
-- 👀 I’m interested in computer science, gaming, running, sailing and many other sports
-- 🌱 I’m currently studying computer science at the University Of Manchester
-- 📫 How to reach me by email or phone
+- 👀 I’m interested in computer science, running, sailing and many other sports 
+- 🌱 I’m currently studying computer science at the University Of Manchester and am in my final year
+- 📫 How to reach me by email or phone is in my CV
